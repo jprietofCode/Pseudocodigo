@@ -1,0 +1,18 @@
+Algoritmo llegarTemprano
+	Escribir "**** Plan para llegar temprano al trabajo ****"
+	Escribir "1. Determinar la hora de ingreso al trabajo, ejemplo 8:00 am"
+	Escribir "2. Determinar el tiempo recorido de la casa al trabajo, ejemplo 2h"
+	Escribir "3. Determinar el tiempo empleado desde que se levante, se baña, se cambia y desayuna, ejemplo 1h"
+	Escribir "3. Elegir un día antes del trabajo las prendas a versir"
+	Escribir "4. Elegir los elementos necesario para el trabajo y organizarlos en el interior de una maleta"
+	Escribir "5. Dejar las prendas a vestir y la maleta de trabajo en un lugar accesible que permita reducir tiempo a la hora de salir de la casa"
+	Escribir "5. configurar el despertador, teniendo encuenta el ingreso al trabajo, el tiempo de recorrido y el tiempo empleado antes de salir de la casa"
+	Escribir "Ejemplo hora del despertador 4:00 am"
+	Escribir "6. Elegir una hora de descanso que este en el rango de 6h a 8h de sueño, teniendo en cuenta la hora ha desperta, ejemplo 9:00 pm"
+	Escribir "7. Ejecutar el plan"
+	Escribir "Acostarme 9:00pm"
+	Escribir "despertarme 4:00 am"
+	Escribir "levantarme de la cama, bañarme, vestirme con la ropa elegida previamente, desayunar, recojer la maleta y salir de la casa a las 5:00am o 5:30am"
+	Escribir "Recorrer el trayecto al trabajo"
+	Escribir "Llegar a mi lugar de trabajo con exito"
+FinAlgoritmo
